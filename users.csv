@@ -1,0 +1,11 @@
+user_id,username,email,registration_date
+1,user1,user1@example.com,2023-01-11
+2,user2,user2@example.com,2023-01-28
+3,user3,user3@example.com,2023-01-20
+4,user4,user4@example.com,2023-01-26
+5,user5,user5@example.com,2023-01-27
+6,user6,user6@example.com,2023-01-02
+7,user7,user7@example.com,2023-01-19
+8,user8,user8@example.com,2023-01-13
+9,user9,user9@example.com,2023-01-10
+10,user10,user10@example.com,2023-01-15
